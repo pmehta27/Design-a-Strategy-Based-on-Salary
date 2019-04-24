@@ -1,4 +1,4 @@
-# Salary Prediction
+# Design a Startegy Based on Salary
 Predicting Salaries based on Job Postings (Python)
 
 ## Business Perspective
